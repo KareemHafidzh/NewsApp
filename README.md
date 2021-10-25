@@ -1,3 +1,6 @@
 # NewsApp SKL Ke-2 IDN
 
-- Leearn Github
+## senin, 25 October 2021
+- Saya telah belajar mengerjakan github untuk share project
+- Saya telah menambahkan SplashScreen
+- menyusun tapilan utama dengan TabLayoutMediator
