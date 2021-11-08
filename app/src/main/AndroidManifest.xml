@@ -11,7 +11,7 @@
         android:theme="@style/Theme.NewsApp">
         <activity
             android:theme="@style/noActionBar"
-            android:name=".fragment.SplashScreenActivity"
+            android:name=".SplashScreenActivity"
             android:exported="true">
 
             <intent-filter>

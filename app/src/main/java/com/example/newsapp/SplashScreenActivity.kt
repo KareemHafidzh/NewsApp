@@ -1,10 +1,8 @@
-package com.example.newsapp.fragment
+package com.example.newsapp
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.newsapp.MainActivity
-import com.example.newsapp.R
 
 class SplashScreenActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
